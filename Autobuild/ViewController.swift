@@ -22,7 +22,7 @@ class ViewController: UIViewController {
 
     func checkIssues()
     {
-        var a = 25; var b =10;
+        var a = 25; var b = 10;
         
         var c = a + b
         print(c)
