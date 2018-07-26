@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         print(c)
         
         
-        var c = a + b
+        c = a + b
         print(c)
         
         
